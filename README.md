@@ -2,7 +2,7 @@
 
 ## Hi,
 
-![I](/images/i.png)
+![I](/images/i.jpg)
 
 ## Credits
 
